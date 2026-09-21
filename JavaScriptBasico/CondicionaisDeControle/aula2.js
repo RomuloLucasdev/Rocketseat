@@ -17,4 +17,3 @@ console.log("string" ? "Verdadeiro" : "Falso"); // Verdadeiro
 console.log([] ? "Verdadeiro" : "Falso"); // Verdadeiro
 console.log({} ? "Verdadeiro" : "Falso"); // Verdadeiro
 console.log(function() {} ? "Verdadeiro" : "Falso"); // Verdadeiro
-console.log(NaN ? "Verdadeiro" : "Falso"); // Falso
